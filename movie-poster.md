@@ -88,11 +88,11 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt:**  Make a movie poster of the maze runner that centers the main character thomas in the center who looks famished and like he ran a marathon with him being the focal point. Make thomas look worried and hopeful at the same time. Have thomas be in a maze with very tight corners. Make thomas running/jogging towards the camera in the tight corners. Have the main colors be blue/green with accent colors and shading be in black with hints of yellow. 
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  he was running very well, tight corners. the font is back to normal. the caption is good
+- **What didn't work:**  he has yellow/green powers in his back
+- **What I'll change for next attempt:**  ill just take out the green/yellow highlights fully so then it doesnt mess up anything
 
 **Attempt 4:**  
 - **My prompt:**  
