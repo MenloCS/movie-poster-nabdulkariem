@@ -68,23 +68,22 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
-
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **My prompt:**  Make a movie poster of the Maze Runner that centers the mian charachter thomas in the center who looks famished and like he ran a marathon with him being the focal point. Make thomas look worried and hopeful at the same time. Have a maze in the back of the poster. Have the main colors be blue/green with accent colors and shading be in black with hints of yellow. 
+- **What worked:** thomas apperance in the middle and the colors and theres a maze
+- **What didn't work:**   everything except there is yellow things coming at him, and the maze is rounded with a big open space
+- **What I'll change for next attempt:**  talk more about the maze, but keep how i talked about thomas the same
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt:**  Make a movie poster of the maze runner that centers the main character thomas in the center who looks famished and like he ran a marathon with him being the focal point. Make thomas look worried and hopeful at the same time. Have a maze in the back of the poster. Make the maze be zoomed out in the back and very tight corners. Have the main colors be blue/green with accent colors and shading be in black with hints of yellow in the green and black dark places.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  thomas is the same, the maze corners are tighter
+- **What didn't work:**  the font for the mazerunner is bad, hes just on top of the maze. and the yellow are just vibrant colors in random places
+- **What I'll change for next attempt:**  ill talk about the text and where thomas position is
 
 ---
 
 ## Step 3: AI Generation – Continued Iteration
-*(Commit message: "Documented final AI attempts")*
+*(Commit message: "Documented final AI attempts")* 
 
 Keep refining. Try at least two more meaningfully different directions.
 
