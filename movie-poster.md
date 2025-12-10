@@ -130,14 +130,14 @@ Export your best AI generation and open it in Photoshop. You must make at least 
 ## Step 5: Reflection
 *(Commit message: "Completed reflection")*
 
-**How did your vision evolve?**  
-Compare your original creative brief to your final poster. What changed? What stayed the same?  
+**How did your vision evolve?** it kept adding more things or kept taking things away 
+Compare your original creative brief to your final poster. What changed? What stayed the same?  alot changed, its a whole different poster in the back and font wise and what it says, but the main charchter in the middle stayed the same
 
 
-**What decision are you most proud of that the AI didn't make for you?**  
+**What decision are you most proud of that the AI didn't make for you?**  i added in my own yellow highlights how i wanted, and i added starring dyan obrien. 2 major things i wanted!
 
 
-**What would you do differently next time?**  
+**What would you do differently next time?**  i would be more clearer on how i say things, and add MORE to the photoshop section.
 
 
 ---
