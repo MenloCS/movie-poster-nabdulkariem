@@ -95,10 +95,10 @@ Keep refining. Try at least two more meaningfully different directions.
 - **What I'll change for next attempt:**  ill just take out the green/yellow highlights fully so then it doesnt mess up anything
 
 **Attempt 4:**  
-- **My prompt:**  
+- **My prompt:**  Make a movie poster of the maze runner that centers the main character thomas in the center who looks famished and like he ran a marathon with him being the focal point. Make thomas look worried and hopeful at the same time. Have thomas be in a maze with very tight corners. Make thomas running/jogging towards the camera in the tight corners. Have the main colors be blue/green with accent colors and shading be in black.
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:**  It took out the yellow random add ins and thomas is the same
+- **What didn't work:**  the maze looks funkier
 
 **Final AI Image Selected:** (Which attempt? Why?)  
 
@@ -118,8 +118,8 @@ Export your best AI generation and open it in Photoshop. You must make at least 
 - Remove unwanted elements  
 
 **Your Modifications:**  
-1.  
-2.  
+1.  i added in yellow highlights myself
+2.  i added in "staring: dylan obrien"
 3. (optional)  
 
 **Save your final poster as:** `final-poster.jpg` or `final-poster.png`  
